@@ -1,0 +1,18 @@
+grocery=["harpic","bhindi","deodrant","vim bar"]
+# print(grocery[1])
+number=[2,7,9,36,17,11]
+# print(number[3])
+# number.sort()
+# print(number)
+# number.reverse()
+# print(number)
+# print(len(number))
+# print(number[:6:-2])
+# number.append(7)
+# number.append(71)
+# number.append(72)
+# number.insert(4,82)
+# number.remove(17)
+# print(number)
+tp=(1,)
+print(tp)

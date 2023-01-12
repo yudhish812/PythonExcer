@@ -1,0 +1,16 @@
+f = open("yudhi.txt", "r")
+print(f.readlines())
+# print(f.readline(),end="")
+# print(f.readline())
+# print(f.readline())
+# content = f.read()
+# for line in f:
+#     print(line, end="")
+# content=f.read(45)
+# print("1", content)
+# content=f.read(45)
+# print("2", content)
+
+# content=f.read(75)
+# print(content)
+# f.close()
